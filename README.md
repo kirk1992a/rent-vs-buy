@@ -1,3 +1,3 @@
 # Rent vs Buy Calculator
-Branded for High Flight Financial.
-Deployed with Vercel.
+
+Built for High Flight Financial
