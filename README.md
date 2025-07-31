@@ -1,3 +1,1 @@
-# Rent vs Buy Calculator
-
-Built for High Flight Financial
+# Full Rent vs Buy Calculator for High Flight Financial
