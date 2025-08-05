@@ -1,6 +1,7 @@
+
 {
   "name": "rent-vs-buy",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",

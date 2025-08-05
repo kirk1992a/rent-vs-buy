@@ -1,1 +1,3 @@
-# Full Rent vs Buy Calculator for High Flight Financial
+# Rent vs Buy Calculator
+
+Compare homeownership vs renting over time including investment growth and breakeven analysis.
